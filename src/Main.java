@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         int score = 50; // счет клиента.
-        int deposit = 3000; // пополнение.
+        int deposit = 300; // пополнение.
 
         int bonus;
 
